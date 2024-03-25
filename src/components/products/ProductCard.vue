@@ -16,8 +16,6 @@
         <a href="#!" class="btn btn-primary shadow-0 me-1">Add to cart</a>
         <a href="#!" class="btn btn-light border px-2 pt-2 icon-hover">
           <font-awesome-icon icon="heart" class="fa-lg text-secondary px-1" />
-          <!-- <i class="fas fa-heart fa-lg text-secondary px-1"></i> -->
-          <!-- <FontAwesomeIcon icon="fa-solid fa-check-square" /> -->
         </a>
       </div>
     </div>
